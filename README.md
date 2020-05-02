@@ -1,2 +1,2 @@
-# Matplotlib-tricks
+# Seaborn tutorial
 visualisation tool
